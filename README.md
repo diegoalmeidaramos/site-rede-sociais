@@ -7,6 +7,7 @@
  <li>HTML5
  <li>CSS3
  </ul>
+ Link do site:
 <a href="https://diegoalmeidaramos.github.io/site-rede-sociais/">Redes Sociais</a>
 
 <p> Projeto feito por mim aluno do curso em vídeo do professor Gustavo Guanabara.</p>
